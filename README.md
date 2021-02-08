@@ -1,2 +1,0 @@
-# par
-finding the pars
