@@ -1,4 +1,4 @@
-﻿Common Name,SRA,Read Data Size (Gb),Genome Size (Gb),Estimated Read Depth,RD%1,RD%2,RD%3,RD%4,RD%5,RD%6,RD%7,RD%8,RD%9
+Common Name,SRA,Read Data Size (Gb),Genome Size (Gb),Estimated Read Depth,RD%1,RD%2,RD%3,RD%4,RD%5,RD%6,RD%7,RD%8,RD%9
 Alpaca,SRR10338508,17.5,2,,,,,,,,,,
 Cattle,SRR9606729,129.8,3,,,,,,,,,,
 Horse,ERR3465834,79.5,2.7,,,,,,,,,,
