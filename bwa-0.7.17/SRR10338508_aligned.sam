@@ -1,0 +1,2 @@
+@SQ	SN:NC_010443.5	LN:319920
+@PG	ID:bwa	PN:bwa	VN:0.7.17-r1188	CL:./bwa mem Alpaca /Users/michelle/Documents/GitHub/par/trimmomatic/SRR10338508_1_unpair.fq /Users/michelle/Documents/GitHub/par/trimmomatic/SRR10338508_2_unpair.fq
